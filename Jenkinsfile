@@ -13,6 +13,7 @@ pipeline {
         NEXUS_REPOSITORY = "vprofile-release"
 	NEXUS_REPOGRP_ID    = "vprofile-grp-repo"
         NEXUS_CREDENTIAL_ID = "nexuslogin"
+	NEXUSPORT=8081
         ARTVERSION = "${env.BUILD_ID}"
     }
 	
