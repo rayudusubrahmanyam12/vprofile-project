@@ -1,0 +1,22 @@
+SNAP-REPO=vprofile-maven-snapshot
+NEXUS-USER=admin
+NEXUS-PASS=admin123
+CENTRAL-REPO=vprofile-maven-central
+RELEASE-REPO=vprofile-release
+NEXUS-GRP-REPO=vprofile-maven-group
+NEXUSIP=172.31.4.239
+NEXUSPORT=8081
+
+Jenkins Password Location: /var/lib/jenkins/secrets/initialAdminPassword
+Nexus password Location /opt/nexus/sonatype-work/nexus3/admin.password
+
+
+https://repo1.maven.org/maven2/
+Slack Token
+xoxb-4250967642096-4227196835235-jFpRDm3B6sUKYzdkcKij8uOb
+SonarQube Token
+01de71097168ca1eb072778bed9a291118407796
+
+&9Eq?l6piX2uC6fqFn*.dwPJCwkoN9-x
+3HQ%!oV!2Kv%@Y$$Fjk4e$XV=Ym)ac*n
+https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.68/bin/apache-tomcat-9.0.68.tar.gz
